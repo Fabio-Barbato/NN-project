@@ -1,0 +1,13 @@
+# virtual environment
+nn/
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+nn/ # your venv folder
+*.dylib # compiled libs just in case
